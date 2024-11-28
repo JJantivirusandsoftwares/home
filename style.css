@@ -35,7 +35,7 @@ h1{
 
 #navbar{
     width: 100%;
-    background-color: transparent;
+    background-color: #00000;
     backdrop-filter: blur(8px);
     padding: 1rem 2rem;
     display: flex;
